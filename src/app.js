@@ -15,7 +15,7 @@ window.onload = () => {
 
 let generateExcuse = () => {
   let pronoun = ["El", "Un"];
-  let subject = ["policia ", "vecino", "gato", "camarero"];
+  let subject = ["policia ", "vecino", "gato", "camarero", "bombero"];
   let action = ["robó mi", "escupió en mi", "olió mi"];
   let possetion = ["chancleta", "perro", "caca de perro", "cartera"];
   let where = ["en el metro", "en la calle", "en el super"];
